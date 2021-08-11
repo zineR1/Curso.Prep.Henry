@@ -1,0 +1,9 @@
+Conceptos Básicos 2
+
+For: utilizamos el for para definir una función en bucle, es decir que repita una acción durante un determinado número de veces, con un incremento definido y asignando una variable.
+
+&&: Significa AND en inglés o Y en español. Dentro de un condicional podemos utilizarlo para mencionar que x condición debe cumplirse e y condición también por ejemplo.
+
+||: Significa OR en inglés y O en español. Dentro de un condicional podemos utilizarlo para mencionar que si x condición se cumple o y condición se cumple debe pasar determinada cosa.
+
+!: Significa NO en inglés y NO en español. Se utiliza para negar algo u obtener un resultado contrario. Por ejemplo (!false) = (true).

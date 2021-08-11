@@ -1,0 +1,11 @@
+Definiciones de conceptos básicos.
+
+Variables: Una Variable se puede utilizar para guardar información y después volver a usasrla en otro momento.
+
+Strings: Un String es información que puede estar en forma de palabra o número inclusive y siempre empieza y termina con comillas.
+
+Funciones (argumentos, return): Una función evita que hagas códigos más de una vez que hagan lo mismo. Agrupa código, lo guarda y se puede invocar posteriormente para realizar una tarea. Una función siempre tiene un argumento que después es ejecutado por un código. Todas las funciones devuelven un resultado, pero cuando no tiene nada para devolver arroja undefined. Return es una función que devuelve un resultado que puede ser una string, número, etc.
+
+Declaraciones if: If se utiliza como un condicional cuando queremos darle a entender a la consola que si sucede determinada cosa queremos que haga otra.
+
+Valores booleanos (true, false): Los valores booleanos definen si una acción es verdadera o falsa.
