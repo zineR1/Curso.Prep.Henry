@@ -1,0 +1,11 @@
+Conceptos Básicos 4
+
+Objetos: Un objeto esta formado por un conjunto de propiedades y estas propiedades se componen de un nombre y un valor.
+
+Propiedades: Son los valores que componen a un objeto y a su vez que guardan datos dentro.
+
+Métodos: Un método se le llama a una función que a su vez puede ser una propiedad y basicamente se encarga de ordenar una determinada acción.
+
+Bucle for in: Como los objetos no tienen índices numéricos, el bucle tradicional no funcionará con estos correctamente. Para solucionar esto hay un segundo tipo de bucle muy similar pero definiendo una variable entre paréntesis.
+
+Notación de puntos vs de corchetes: Son dos formas de acceder a las propiedades de un objeto, ya se para asignar un nuevo valor, eliminarlo, etc. Tienen sus ventajas y sus desventajas ya que uno es mas sencillo de utilizar(notación por puntos) pero es más limitado en comparación a notación por corchetes.
